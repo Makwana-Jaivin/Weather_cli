@@ -13,6 +13,7 @@ Use this key when prompted in the CLI
 
 How to Run:
 python weather_cli.py
+api_key:b198e9e350bf358863affa938b61b804
 
 You'll see a menu like:
 ====================

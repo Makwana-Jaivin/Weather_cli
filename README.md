@@ -1,6 +1,6 @@
 ## Setup Instructions
 
-### 1.Install Dependencies
+1.Install Dependencies
 ```bash
 pip install aiohttp matplotlib tabulate
 
